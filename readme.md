@@ -34,7 +34,7 @@ repos({ baseDir: '~', maxDepth: '2', ignores: ['node_modules'] })
 {
   basePath : 'defaults to ~, sets the root folder for the search',
   maxDepth : 'defaults to 3, sets how deep the search gets',
-  ignores : 'defaults to ["node_modules"], array of paths to ignore'
+  ignores : 'defaults to ["node_modules"], array of paths to ignore (names are wrapped in *<name>*)'
 }
 ```
 

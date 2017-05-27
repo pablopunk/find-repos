@@ -40,7 +40,7 @@ repos({ baseDir: '~', maxDepth: '2', ignores: ['node_modules'] })
 
 ## Related
 
-The cli for this module is [coming soon](https://github.com/pablopunk)
+The cli for this module => [find-repos-cli](https://github.com/pablopunk/find-repos-cli)
 
 ## Author
 

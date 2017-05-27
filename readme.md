@@ -1,7 +1,11 @@
 # find-repos
 
 <p align="center">
-  Node module to recursively find git repos in any folder
+  <i>Node module to recursively find git repos in any folder</i>
+</p>
+<p align="center">
+  <a href="https://travis-ci.org/pablopunk/find-repos"><img src="https://travis-ci.org/pablopunk/find-repos.svg?branch=master" /></a>
+  <a href="https://www.npmjs.com/package/find-repos"><img src="https://img.shields.io/npm/dt/find-repos.svg" /></a>
 </p>
 
 ## Install

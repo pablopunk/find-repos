@@ -43,6 +43,10 @@ repos({ baseDir: '~', maxDepth: '2', ignores: ['node_modules'] })
 }
 ```
 
+## Contribute
+
+Feel free to open an [issue](https://github.com/pablopunk/find-repos/issues/new) or a [PR](https://github.com/pablopunk/find-repos/compare).
+
 ## Related
 
 The cli for this module => [find-repos-cli](https://github.com/pablopunk/find-repos-cli)

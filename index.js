@@ -15,7 +15,7 @@ const keepDepthInRange = depth => {
 }
 
 const buildIgnores = ignores => {
-  let output = ignores.map(path => `-not -path ${path}`)
+  let output = ignores.map(path => `-not -path *${path}*`)
   return output.join(' ')
 }
 

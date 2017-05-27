@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <a href="https://travis-ci.org/pablopunk/find-repos"><img src="https://travis-ci.org/pablopunk/find-repos.svg?branch=master" /></a>
+  <a href="[https://travis-ci.org/pablopunk/find-repos](https://standardjs.com)"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" /></a>
   <a href="https://www.npmjs.com/package/find-repos"><img src="https://img.shields.io/npm/dt/find-repos.svg" /></a>
 </p>
 

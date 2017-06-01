@@ -45,6 +45,8 @@ repos({ baseDir: '~', maxDepth: '2', ignores: ['node_modules'] })
 
 ## Contribute
 
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 Feel free to open an [issue](https://github.com/pablopunk/find-repos/issues/new) or a [PR](https://github.com/pablopunk/find-repos/compare).
 
 ## Related
